@@ -1,0 +1,30 @@
+.btn:focus{
+	outline:none;
+  	box-shadow:none;
+}
+.btn-danger {
+    color: #fff !important;
+    background-color: #ea5455 !important;
+    border-color: #ea5455 !important;
+}
+.btn-success {
+	color: #fff;
+	background-color: #28c76f;
+	border-color: #28c76f;
+}
+.support-btn{
+	height: 39px;
+}
+.support-input-group{
+    margin-top: 15px;
+}
+.error{
+	color: #ea5455;
+}
+.input-group label.error{
+    top: 100%;
+	position: absolute;
+}
+.hero::before{
+	background-color:#000 !important;
+}
